@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*.asm": "asm",
+        "*.eex": "phoenix-heex",
+        "*.heex": "phoenix-heex",
+        "*.scss": "scss",
+        "stack.h": "c"
+    }
+}
