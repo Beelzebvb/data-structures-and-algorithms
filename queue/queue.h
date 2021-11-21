@@ -34,6 +34,7 @@ int createEmptyQueue(queue *q)
 {
     if (q == NULL)
         return -1;
+
     
     q->elements = (int *)(malloc(sizeof(int) * DEFAULT_SIZE));
     q->front = q->rear = -1;
